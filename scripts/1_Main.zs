@@ -109,8 +109,38 @@ recipes.remove(<BuildCraft|Factory:pumpBlock>);
 # Carriage Frames 8x Bug Fix
 # recipes.remove(<JAKJ_RedstoneInMotion:tile.JAKJ_RedstoneInMotion_Carriage:4>);
 
-# Experience Bank
-recipes.remove(<StevesCarts:CartModule:95>);
+# Cable Camouflage
+recipes.remove(<StevesFactoryManager:BlockCableCamouflageName>);
+# Double Sided Cable Camouflage
+recipes.remove(<StevesFactoryManager:BlockCableCamouflageName:1>);
+# Transforming Cable Camouflage
+recipes.remove(<StevesFactoryManager:BlockCableCamouflageName:2>);
+# Block Detector
+recipes.remove(<StevesFactoryManager:BlockCableBUDName>);
+# Item Valve
+recipes.remove(<StevesFactoryManager:BlockCableIntakeName>);
+# Rapid Item Valve
+recipes.remove(<StevesFactoryManager:BlockCableIntakeName:8>);
+# Sign Updater
+recipes.remove(<StevesFactoryManager:BlockCableSignName>);
+# Cable Cluster
+recipes.remove(<StevesFactoryManager:BlockCableClusterName>);
+# Advanced CableClusterName
+recipes.remove(<StevesFactoryManager:BlockCableClusterName:8>);
+# Inventory Relay
+recipes.remove(<StevesFactoryManager:BlockCableRelayName>);
+# Advanced Inventory Relay
+recipes.remove(<StevesFactoryManager:BlockCableRelayName:8>);
+# Inventory Cable
+recipes.remove(<StevesFactoryManager:BlockCableName>);
+# Block Gate
+recipes.remove(<StevesFactoryManager:BlockCableBreakerName>);
+# Machine Inventory Manager
+recipes.remove(<StevesFactoryManager:BlockMachineManagerName>);
+# Redstone Receiver
+recipes.remove(<StevesFactoryManager:BlockCableInputName>);
+# Redstone Emitter
+recipes.remove(<StevesFactoryManager:BlockCableOutputName>);
 
 
 # Add Recipes
@@ -188,6 +218,3 @@ recipes.addShaped(<ExtraUtilities:enderQuarry>*1, [[<gregtech:gt.metaitem.02:313
 
 # Carriage Frames 8x Fix
 # recipes.addShaped(<JAKJ_RedstoneInMotion:tile.JAKJ_RedstoneInMotion_Carriage:4>*8, [[<JAKJ_RedstoneInMotion:item.JAKJ_RedstoneInMotion_SimpleItemSet:2>, <JAKJ_RedstoneInMotion:item.JAKJ_RedstoneInMotion_SimpleItemSet:2>, <JAKJ_RedstoneInMotion:item.JAKJ_RedstoneInMotion_SimpleItemSet:2>], [<JAKJ_RedstoneInMotion:item.JAKJ_RedstoneInMotion_SimpleItemSet:2>, <JAKJ_RedstoneInMotion:item.JAKJ_RedstoneInMotion_SimpleItemSet:2>, <JAKJ_RedstoneInMotion:item.JAKJ_RedstoneInMotion_SimpleItemSet:2>], [<JAKJ_RedstoneInMotion:item.JAKJ_RedstoneInMotion_SimpleItemSet:2>, <JAKJ_RedstoneInMotion:item.JAKJ_RedstoneInMotion_SimpleItemSet:2>,<minecraft:dye:5>]]);
-
-# Experience Bank
-recipes.addShaped(<StevesCarts:CartModule:95>*1, [[null, <minecraft:redstone>, null], [<minecraft:glowstone_dust>, <minecraft:emerald>, <minecraft:glowstone_dust>], [<StevesCarts:ModuleComponents:9>, <minecraft:cauldron>,<StevesCarts:ModuleComponents:9>]]);
