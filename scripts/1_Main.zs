@@ -110,7 +110,7 @@ recipes.remove(<BuildCraft|Factory:pumpBlock>);
 # recipes.remove(<JAKJ_RedstoneInMotion:tile.JAKJ_RedstoneInMotion_Carriage:4>);
 
 # Experience Bank
-recipes.remove(<StevsCarts:CartModule:95>);
+recipes.remove(<StevesCarts:CartModule:95>);
 
 # Cable Camouflage
 recipes.remove(<StevesFactoryManager:BlockCableCamouflageName>);
@@ -144,6 +144,9 @@ recipes.remove(<StevesFactoryManager:BlockMachineManagerName>);
 recipes.remove(<StevesFactoryManager:BlockCableInputName>);
 # Redstone Emitter
 recipes.remove(<StevesFactoryManager:BlockCableOutputName>);
+
+# Dimensional Anchor
+recipes.remove(<DimensionalAnchors:chunkloader>);
 
 
 # Add Recipes
@@ -224,3 +227,5 @@ recipes.addShaped(<ExtraUtilities:enderQuarry>*1, [[<gregtech:gt.metaitem.02:313
 
 # Experience Bank
 recipes.addShaped(<StevesCarts:CartModule:95>*1, [[null, <minecraft:redstone>, null], [<minecraft:glowstone_dust>, <minecraft:emerald>, <minecraft:glowstone_dust>], [<StevesCarts:ModuleComponents:9>, <minecraft:cauldron>,<StevesCarts:ModuleComponents:9>]]);
+
+recipes.addShaped(<DimensionalAnchors:chunkloader>*1, [[<minecraft:gold_ingot>, <minecraft:diamond>, <minecraft:gold_ingot>], [<minecraft:diamond>, <minecraft:iron_block>, <minecraft:diamond>], [<minecraft:gold_ingot>, <minecraft:diamond>, <minecraft:gold_ingot>]]);
