@@ -109,6 +109,9 @@ recipes.remove(<BuildCraft|Factory:pumpBlock>);
 # Carriage Frames 8x Bug Fix
 # recipes.remove(<JAKJ_RedstoneInMotion:tile.JAKJ_RedstoneInMotion_Carriage:4>);
 
+# Experience Bank
+recipes.remove(<StevsCarts:CartModule:95>);
+
 # Cable Camouflage
 recipes.remove(<StevesFactoryManager:BlockCableCamouflageName>);
 # Double Sided Cable Camouflage
@@ -218,3 +221,6 @@ recipes.addShaped(<ExtraUtilities:enderQuarry>*1, [[<gregtech:gt.metaitem.02:313
 
 # Carriage Frames 8x Fix
 # recipes.addShaped(<JAKJ_RedstoneInMotion:tile.JAKJ_RedstoneInMotion_Carriage:4>*8, [[<JAKJ_RedstoneInMotion:item.JAKJ_RedstoneInMotion_SimpleItemSet:2>, <JAKJ_RedstoneInMotion:item.JAKJ_RedstoneInMotion_SimpleItemSet:2>, <JAKJ_RedstoneInMotion:item.JAKJ_RedstoneInMotion_SimpleItemSet:2>], [<JAKJ_RedstoneInMotion:item.JAKJ_RedstoneInMotion_SimpleItemSet:2>, <JAKJ_RedstoneInMotion:item.JAKJ_RedstoneInMotion_SimpleItemSet:2>, <JAKJ_RedstoneInMotion:item.JAKJ_RedstoneInMotion_SimpleItemSet:2>], [<JAKJ_RedstoneInMotion:item.JAKJ_RedstoneInMotion_SimpleItemSet:2>, <JAKJ_RedstoneInMotion:item.JAKJ_RedstoneInMotion_SimpleItemSet:2>,<minecraft:dye:5>]]);
+
+# Experience Bank
+recipes.addShaped(<StevesCarts:CartModule:95>*1, [[null, <minecraft:redstone>, null], [<minecraft:glowstone_dust>, <minecraft:emerald>, <minecraft:glowstone_dust>], [<StevesCarts:ModuleComponents:9>, <minecraft:cauldron>,<StevesCarts:ModuleComponents:9>]]);
