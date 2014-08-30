@@ -4,7 +4,7 @@ Creative Commons Attribution 4.0 International License:
 http://creativecommons.org/licenses/by/4.0/
 
 If you want Pictures of the License for each mod you can visit my dropbox link:
-https://www.dropbox.com/sh/nq250be1ha0mdsy/AAA98AewND2NuXoje2lCtyD7a
+https://www.dropbox.com/sh/nq250be1ha0mdsy/AABqqEaSyRzohVuiNGYfNN23a?dl=0
 
 Advanced Genetics: 
 http://www.minecraftforum.net/topic/1988826-172164-forge-advanced-genetics-mod/                          
