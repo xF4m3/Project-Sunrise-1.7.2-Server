@@ -246,6 +246,10 @@ Inductrialcraft2:
 http://www.industrial-craft.net/                                                                                         
 author: IC² Dev Team
 
+InfernalMobs:
+http://atomicstryker.net/index.php
+author: AtomicStryker
+
 InventroyTweaks: 
 http://www.minecraftforum.net/topic/323444-147-inventory-tweaks-150-jan-17/                                           
 author: jimeowan
