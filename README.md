@@ -249,6 +249,7 @@ author: IC² Dev Team
 InfernalMobs:
 http://atomicstryker.net/index.php
 author: AtomicStryker
+"You have my permission to use Inferna Mobs"
 
 InventroyTweaks: 
 http://www.minecraftforum.net/topic/323444-147-inventory-tweaks-150-jan-17/                                           
