@@ -14,9 +14,9 @@ Advanced Solar Panel:
 http://forum.industrial-craft.net/index.php?page=Thread&threadID=3291                        
 author: SeNtiMeL 
 
-AdvancedMachiens Immbis:
+AdvancedMachines Immibis:
 http://dl.dropboxusercontent.com/u/2944265/mods/autobuilt/index.html                        
-author: Immbis
+author: Immibis
 
 ArsMagica2: 
 http://www.minecraftforum.net/topic/2028696-ars-magica-2-164-version-112b-updated-jan-27/         
@@ -104,7 +104,7 @@ author: Mineshopper
 
 Chicken Chunks: 
 http://www.minecraftforum.net/topic/909223-164-smp-chickenbones-mods/                                     
-author: chickenbones
+author: chicken_bones
 
 Chisle: 
 http://www.minecraftforum.net/topic/1749374-164smpforge-chisel/                                            
@@ -112,7 +112,7 @@ author: AUTOMATIC_MAIDI
 
 CodeChickenCore: 
 http://www.minecraftforum.net/topic/909223-164-smp-chickenbones-mods/                                       
-author: chickenbones
+author: chicken_bones
 
 CoFH: 
 http://www.minecraftforum.net/topic/1773528-164-team-cofh-mods-thermal-expansion-3000/                       
@@ -161,7 +161,7 @@ auhtor: asie
 
 Ender Storage: 
 http://www.minecraftforum.net/topic/909223-164-smp-chickenbones-mods/                                        
-author: chickenbones
+author: chicken_bones
 
 Enhanced Portals 3: 
 http://www.minecraftforum.net/topic/2143651-172-enhancedportals-3/                                            
@@ -238,9 +238,9 @@ iChunUtils:
 http://ichun.us/mods/ichun-util/                                                                                               
 author: iChun
 
-ImmbisCore: 
+ImmibisCore: 
 http://www.minecraftforum.net/topic/1001131-164-immibiss-mods-smp-now-with-857-less-version-numbers-in-this-title/   
-author: Immbiss
+author: Immibis
 
 Inductrialcraft2: 
 http://www.industrial-craft.net/                                                                                         
@@ -267,7 +267,7 @@ LocisticPipes:
 http://www.minecraftforum.net/topic/1831791-16xbuildcraft-logistics-pipes/#license                                      
 author: theZorro266
 
-Magicla Crops: 
+Magical Crops: 
 http://www.minecraftforum.net/topic/1633516-164sspsmp-magical-crops-version-32-farm-your-resources-forge-320-beta-15a-seriously-need-a-new-mod-spotlight-updated-260214/                                                                 
 author: Mark719
 
@@ -343,7 +343,7 @@ author: Mr. okushama
 
 Numina: 
 http://machinemuse.net/                                                                                                  
-author: MachienMuse
+author: MachineMuse
 
 ObsidianPlates: 
 http://forum.feed-the-beast.com/threads/myrathis-mod-compendium.18505/                                                  
