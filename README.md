@@ -3,8 +3,8 @@ You are allowed to use this Modpack for your servers, but you are not allowed to
 Creative Commons Attribution 4.0 International License:
 http://creativecommons.org/licenses/by/4.0/
 
-If you want Pictures of the License for each mod you can visit my dropbox link:
-https://www.dropbox.com/sh/nq250be1ha0mdsy/AABqqEaSyRzohVuiNGYfNN23a?dl=0
+If you want Pictures of the License for each mod you can visit my copy link:
+https://copy.com/Ml2LKNPwSpI3kMj1
 
 Advanced Genetics: 
 http://www.minecraftforum.net/topic/1988826-172164-forge-advanced-genetics-mod/                          
@@ -31,7 +31,7 @@ http://www.minecraftforum.net/topic/1625015-15x-16x-applied-energistics-rv-13-c-
 author: AlgorithmX2
 
 Aroma1997Core: 
-http://www.minecraftforum.net/topic/1679684-forge-164172-aroma1997s-mods-betterchests-mining-world-mod-aroma1997core-compactwindmills-aromabackup-portablerecharger/                                                                                                             
+http://www.minecraftforum.net/topic/1679684-forge-164172-aroma1997s-mods-betterchests-mining-world-mod-aroma1997core-compactwindmills-aromabackup-portablerecharger/                                                                                                
 author: Aroma1997
 
 ATG: 
@@ -458,6 +458,9 @@ author: iChun
 Tconstruct: 
 http://www.minecraftforum.net/topic/1659892-164tinkers-construct/                                                 
 author: mDiyo
+
+TerraFirmaCraft
+http://terrafirmacraft.com/index.html                                                              
 
 TIC Tooltips:
 http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294501-tic-tooltips-in-game-tinkers-construct-tool
